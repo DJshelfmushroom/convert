@@ -5,7 +5,6 @@ import {
   MagickImageCollection,
   MagickReadSettings
 } from "@imagemagick/magick-wasm";
-import type { IMagickImageCollection } from "@imagemagick/magick-wasm";
 
 import mime from "mime";
 
